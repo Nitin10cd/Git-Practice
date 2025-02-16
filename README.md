@@ -30,3 +30,5 @@ Download and install **Git** from [git-scm.com](https://git-scm.com/).
 ```sh
 git config --global user.name "Your Name"
 git config --global user.email "your-email@example.com"
+
+no knowlege no git and github
